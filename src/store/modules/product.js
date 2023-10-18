@@ -33,8 +33,8 @@ export default {
     };
   },
   getters: {
-    prodcuts(state) {
-      return state.prodcuts;
+    products(state) {
+      return state.products;
     },
   },
 };
